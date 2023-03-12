@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">INTERVIEW</string>
+    <string-array name="Question">
+        <item> what is andriod? </item>
+        <item> what is layout in Mobile computing? </item>
+        <item> what is games? </item>
+        <item> What is mobile computing? </item>
+        <item> What are the benefits of mobile computing? </item>
+        <item> What are some examples of mobile computing applications? </item>
+        <item> What is mobile app development? </item>
+        <item> What are some popular mobile app development platforms? </item>
+        <item> What are some common challenges in mobile app development? </item>
+        <item> What is mobile device management (MDM)? </item>
+        <item> What is the difference between mobile computing and desktop computing? </item>
+        <item> What are some examples of mobile computing devices? </item>
+        <item> How does mobile computing impact businesses? </item>
+        <item> What are the advantages of mobile computing? </item>
+        <item> What are the challenges of mobile computing? </item>
+        <item> What is the difference between mobile computing and cloud computing? </item>
+        <item> What is mobile app development? </item>
+        <item> What are some popular mobile operating systems? </item>
+        <item> How has mobile computing impacted social interactions? </item>
+        <item> How can mobile computing help in healthcare? </item>
+
+    </string-array>
+    <string-array name="answr">
+        <item> The Android operating system is a mobile operating system that was developed by Google (GOOGL​) to be primarily used for touchscreen devices, cell phones, and tablets.</item>
+        <item>  layout defines the structure for a user interface in your app, such as in an activity. All elements in the layout are built using a hierarchy of View and ViewGroup objects</item>
+        <item>  A game is any mental or physical activity with rules that is done for fun, such as physical activities like baseball and soccer </item>
+        <item> Mobile computing refers to the use of portable computing devices such as smartphones, tablets, and laptops to access and share data and applications over a wireless network. </item>
+        <item> Mobile computing allows people to access information and communicate with others from anywhere, at any time. It can also improve productivity, streamline business operations, and facilitate remote work. </item>
+        <item> Examples of mobile computing applications include mobile banking, mobile gaming, social media, email, and messaging apps. </item>
+        <item> Mobile app development is the process of creating software applications that run on mobile devices such as smartphones and tablets. </item>
+        <item> Popular mobile app development platforms include Android, iOS, and React Native. </item>
+        <item> Some common challenges in mobile app development include designing for multiple screen sizes and resolutions, optimizing performance and battery life, and dealing with platform-specific differences and limitations. </item>
+        <item> Mobile device management is a security and management solution for mobile devices used in businesses and organizations. It allows administrators to manage and secure mobile devices, applications, and data, and enforce policies and restrictions. </item>
+        <item> Mobile computing is characterized by the use of portable, wireless devices and networks, while desktop computing refers to the use of stationary, wired devices. Mobile computing is often associated with mobility and flexibility, while desktop computing is often associated with power and performance. </item>
+        <item> Some examples of mobile computing devices include smartphones, tablets, laptops, smartwatches, and handheld gaming consoles. </item>
+        <item> Mobile computing has enabled businesses to improve their productivity, efficiency, and communication. Employees can now access data and applications on-the-go, which allows them to work from anywhere and respond to business needs more quickly. </item>
+        <item> The advantages of mobile computing include portability, accessibility, flexibility, and convenience. Mobile devices allow users to access data and applications from anywhere, at any time. </item>
+        <item> The challenges of mobile computing include security concerns, limited battery life, connectivity issues, and small screen sizes. </item>
+        <item> Mobile computing refers to the use of portable devices to access data and applications, while cloud computing refers to the use of remote servers to store, manage, and process data and applications. </item>
+        <item> Mobile app development is the process of creating software applications that run on mobile devices. This includes designing, coding, testing, and deploying apps for iOS and Android devices. </item>
+        <item> Some popular mobile operating systems include Android, iOS, Windows Mobile, and BlackBerry OS. </item>
+        <item> Mobile computing has enabled people to stay connected with friends and family through social media apps and messaging services. It has also changed the way people communicate, with more people opting to text and message rather than make phone calls. </item>
+        <item> Mobile computing can help in healthcare by enabling doctors and nurses to access patient records and medical information on-the-go, allowing for faster and more accurate diagnosis and treatment. Mobile apps can also be used to monitor patient health remotely, reducing the need for in-person visits and improving patient outcomes. Additionally, mobile devices can be used for telemedicine, allowing patients to receive medical consultations and advice from anywhere with an internet connection. </item>
+    </string-array>
+</resources>
